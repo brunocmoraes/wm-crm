@@ -25,6 +25,7 @@
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.6",
+        "deployer/deployer": "^7.4",
         "fakerphp/faker": "^1.9.1",
         "krayin/krayin-package-generator": "dev-master",
         "laravel/pint": "^1.16",
